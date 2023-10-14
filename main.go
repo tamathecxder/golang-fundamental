@@ -6,5 +6,6 @@ func main() {
 	// datatypes.Numbers()
 	// datatypes.Booleans()
 	// datatypes.Strings()
-	datatypes.Variables()
+	// datatypes.Variables()
+	datatypes.Constants()
 }
