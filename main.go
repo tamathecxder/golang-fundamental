@@ -8,5 +8,6 @@ func main() {
 	// datatypes.Strings()
 	// datatypes.Variables()
 	// datatypes.Constants()
-	datatypes.Conversions()
+	// datatypes.Conversions()
+	datatypes.TypeDeclarations()
 }
