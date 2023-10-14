@@ -5,5 +5,6 @@ import "golang-fundamental/datatypes"
 func main() {
 	// datatypes.Numbers()
 	// datatypes.Booleans()
-	datatypes.Strings()
+	// datatypes.Strings()
+	datatypes.Variables()
 }
