@@ -1,7 +1,8 @@
 package main
 
-import "fmt"
+import "golang-fundamental/datatypes"
 
 func main() {
-	fmt.Println("Hi, mom!")
+	// datatypes.Numbers()
+	datatypes.Booleans()
 }
