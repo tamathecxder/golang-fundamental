@@ -10,5 +10,6 @@ func main() {
 	// datatypes.Constants()
 	// datatypes.Conversions()
 	// datatypes.TypeDeclarations()
-	datatypes.MathOperations()
+	// datatypes.MathOperations()
+	datatypes.ComparationOperations()
 }
