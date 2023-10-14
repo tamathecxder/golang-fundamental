@@ -12,5 +12,5 @@ func main() {
 	// datatypes.TypeDeclarations()
 	// datatypes.MathOperations()
 	// datatypes.ComparationOperations()
-	datatypes.BooleanOperations()
+	datatypes.Arrays()
 }
