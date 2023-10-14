@@ -14,5 +14,6 @@ func main() {
 	// datatypes.ComparationOperations()
 	// datatypes.Arrays()
 	// datatypes.Slices()
-	datatypes.Maps()
+	// datatypes.Maps()
+	datatypes.ConditionalExpressions()
 }
