@@ -1,6 +1,6 @@
 package main
 
-import "golang-fundamental/datatypes"
+import "golang-fundamental/loops"
 
 func main() {
 	// datatypes.Numbers()
@@ -16,5 +16,6 @@ func main() {
 	// datatypes.Slices()
 	// datatypes.Maps()
 	// datatypes.ConditionalExpressions()
-	datatypes.SwitchExpressions()
+	// datatypes.SwitchExpressions()
+	loops.ForLoops()
 }
