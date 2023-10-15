@@ -15,5 +15,6 @@ func main() {
 	// datatypes.Arrays()
 	// datatypes.Slices()
 	// datatypes.Maps()
-	datatypes.ConditionalExpressions()
+	// datatypes.ConditionalExpressions()
+	datatypes.SwitchExpressions()
 }
