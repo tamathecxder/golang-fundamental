@@ -26,5 +26,6 @@ func main() {
 	// loops.ContinueKeyword()
 	// functions.Functions()
 	// functions.Parameters()
-	functions.Returns()
+	// functions.Returns()
+	functions.MultipleReturns()
 }
