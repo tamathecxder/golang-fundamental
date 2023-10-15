@@ -28,5 +28,6 @@ func main() {
 	// functions.Parameters()
 	// functions.Returns()
 	// functions.MultipleReturns()
-	functions.NamedReturns()
+	// functions.NamedReturns()
+	functions.Variadics()
 }
