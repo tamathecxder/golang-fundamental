@@ -1,6 +1,10 @@
 package main
 
-import "golang-fundamental/loops"
+import (
+	// "golang-fundamental/loops"
+	// "golang-fundamental/datatypes"
+	"golang-fundamental/functions"
+)
 
 func main() {
 	// datatypes.Numbers()
@@ -19,5 +23,6 @@ func main() {
 	// datatypes.SwitchExpressions()
 	// loops.ForLoops()
 	// loops.BreakKeyword()
-	loops.ContinueKeyword()
+	// loops.ContinueKeyword()
+	functions.Functions()
 }
