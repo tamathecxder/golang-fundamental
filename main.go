@@ -27,5 +27,6 @@ func main() {
 	// functions.Functions()
 	// functions.Parameters()
 	// functions.Returns()
-	functions.MultipleReturns()
+	// functions.MultipleReturns()
+	functions.NamedReturns()
 }
