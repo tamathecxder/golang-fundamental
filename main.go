@@ -25,5 +25,6 @@ func main() {
 	// loops.BreakKeyword()
 	// loops.ContinueKeyword()
 	// functions.Functions()
-	functions.Parameters()
+	// functions.Parameters()
+	functions.Returns()
 }
