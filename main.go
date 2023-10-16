@@ -5,7 +5,8 @@ import (
 	// "golang-fundamental/datatypes"
 	// "golang-fundamental/operations"
 	// "golang-fundamental/conditions"
-	"golang-fundamental/functions"
+	// "golang-fundamental/functions"
+	"golang-fundamental/etc"
 )
 
 func main() {
@@ -39,5 +40,6 @@ func main() {
 	// functions.FunctionValues()
 	// functions.FunctionAsParameters()
 	// functions.Anonymous()
-	functions.Recursive()
+	// functions.Recursive()
+	etc.Closure()
 }
