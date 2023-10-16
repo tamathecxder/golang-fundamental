@@ -38,5 +38,6 @@ func main() {
 	// functions.Variadics()
 	// functions.FunctionValues()
 	// functions.FunctionAsParameters()
-	functions.Anonymous()
+	// functions.Anonymous()
+	functions.Recursive()
 }
