@@ -37,5 +37,6 @@ func main() {
 	// functions.NamedReturns()
 	// functions.Variadics()
 	// functions.FunctionValues()
-	functions.FunctionAsParameters()
+	// functions.FunctionAsParameters()
+	functions.Anonymous()
 }
