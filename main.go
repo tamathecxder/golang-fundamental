@@ -1,12 +1,14 @@
 package main
 
-import "golang-fundamental/functions"
-
-// "golang-fundamental/loops"
-// "golang-fundamental/datatypes"
-// "golang-fundamental/operations"
-// "golang-fundamental/conditions"
-// "golang-fundamental/functions"
+import (
+	// "golang-fundamental/loops"
+	// "golang-fundamental/datatypes"
+	// "golang-fundamental/operations"
+	// "golang-fundamental/conditions"
+	// "golang-fundamental/functions"
+	// "golang-fundamental/functions"
+	"golang-fundamental/structs"
+)
 
 func main() {
 	// datatypes.Numbers()
@@ -43,5 +45,6 @@ func main() {
 	// functions.Closure()
 	// functions.Defer()
 	// functions.Panic()
-	functions.Recover()
+	// functions.Recover()
+	structs.Structs()
 }
