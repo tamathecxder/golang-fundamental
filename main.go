@@ -1,13 +1,12 @@
 package main
 
-import (
-	// "golang-fundamental/loops"
-	// "golang-fundamental/datatypes"
-	// "golang-fundamental/operations"
-	// "golang-fundamental/conditions"
-	// "golang-fundamental/functions"
-	"golang-fundamental/etc"
-)
+import "golang-fundamental/functions"
+
+// "golang-fundamental/loops"
+// "golang-fundamental/datatypes"
+// "golang-fundamental/operations"
+// "golang-fundamental/conditions"
+// "golang-fundamental/functions"
 
 func main() {
 	// datatypes.Numbers()
@@ -41,5 +40,5 @@ func main() {
 	// functions.FunctionAsParameters()
 	// functions.Anonymous()
 	// functions.Recursive()
-	etc.Closure()
+	functions.Closure()
 }
