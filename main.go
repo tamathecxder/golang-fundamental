@@ -3,6 +3,8 @@ package main
 import (
 	// "golang-fundamental/loops"
 	// "golang-fundamental/datatypes"
+	// "golang-fundamental/operations"
+	// "golang-fundamental/conditions"
 	"golang-fundamental/functions"
 )
 
@@ -14,13 +16,17 @@ func main() {
 	// datatypes.Constants()
 	// datatypes.Conversions()
 	// datatypes.TypeDeclarations()
-	// datatypes.MathOperations()
-	// datatypes.ComparationOperations()
+
+	// operations.MathOperations()
+	// operations.ComparationOperations()
+	// operations.BooleanOperations()
+
 	// datatypes.Arrays()
 	// datatypes.Slices()
 	// datatypes.Maps()
-	// datatypes.ConditionalExpressions()
-	// datatypes.SwitchExpressions()
+
+	// conditions.ConditionalExpressions()
+	// conditions.SwitchExpressions()
 	// loops.ForLoops()
 	// loops.BreakKeyword()
 	// loops.ContinueKeyword()
