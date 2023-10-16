@@ -40,5 +40,6 @@ func main() {
 	// functions.FunctionAsParameters()
 	// functions.Anonymous()
 	// functions.Recursive()
-	functions.Closure()
+	// functions.Closure()
+	functions.Defer()
 }
