@@ -41,5 +41,6 @@ func main() {
 	// functions.Anonymous()
 	// functions.Recursive()
 	// functions.Closure()
-	functions.Defer()
+	// functions.Defer()
+	functions.Panic()
 }
