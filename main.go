@@ -46,5 +46,8 @@ func main() {
 	// functions.Defer()
 	// functions.Panic()
 	// functions.Recover()
-	structs.Structs()
+
+	// structs.Structs()
+	// structs.StructMethods()
+	structs.Interfaces()
 }
