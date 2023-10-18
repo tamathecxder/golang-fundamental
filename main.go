@@ -7,7 +7,8 @@ import (
 	// "golang-fundamental/conditions"
 	// "golang-fundamental/functions"
 	// "golang-fundamental/functions"
-	"golang-fundamental/structs"
+	// "golang-fundamental/structs"
+	"golang-fundamental/pointer"
 )
 
 func main() {
@@ -53,5 +54,7 @@ func main() {
 	// structs.BlankInterfaces()
 	// structs.Nil()
 	// structs.ErrorInterfaces()
-	structs.TypeAssertions()
+	// structs.TypeAssertions()
+
+	pointer.Pointer()
 }
