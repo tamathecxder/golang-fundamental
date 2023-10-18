@@ -7,7 +7,7 @@ import (
 
 func divide(value int, divider int) (int, error) {
 	if divider == 0 {
-		return 0, errors.New("Can be divided by zero")
+		return 0, errors.New("can be divided by zero")
 	} else {
 		return value / divider, nil
 	}
