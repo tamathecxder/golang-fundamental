@@ -52,5 +52,6 @@ func main() {
 	// structs.Interfaces()
 	// structs.BlankInterfaces()
 	// structs.Nil()
-	structs.ErrorInterfaces()
+	// structs.ErrorInterfaces()
+	structs.TypeAssertions()
 }
