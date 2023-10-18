@@ -50,5 +50,6 @@ func main() {
 	// structs.Structs()
 	// structs.StructMethods()
 	// structs.Interfaces()
-	structs.BlankInterfaces()
+	// structs.BlankInterfaces()
+	structs.Nil()
 }
