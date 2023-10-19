@@ -9,7 +9,8 @@ import (
 	// "golang-fundamental/functions"
 	// "golang-fundamental/structs"
 	// "golang-fundamental/pointer"
-	"golang-fundamental/access-modifier/_import"
+	// "golang-fundamental/access-modifier/_import"
+	"golang-fundamental/pkg"
 )
 
 func main() {
@@ -61,5 +62,7 @@ func main() {
 	// pointer.PointerFunction()
 	// pointer.PointerMethod()
 
-	_import.Consume()
+	// _import.Consume()
+
+	pkg.PkgInitialization()
 }
