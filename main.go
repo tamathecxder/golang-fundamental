@@ -56,5 +56,6 @@ func main() {
 	// structs.ErrorInterfaces()
 	// structs.TypeAssertions()
 
-	pointer.Pointer()
+	// pointer.Pointer()
+	pointer.PointerMethod()
 }
