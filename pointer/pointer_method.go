@@ -2,24 +2,19 @@ package pointer
 
 import "fmt"
 
-type NewAddress struct {
-	City, Province, Country string
+type Man struct {
+	Name string
 }
 
-func fillCountry(address *NewAddress, countryName string) {
-	address.Country = countryName
+func (man *Man) Married() {
+	man.Name = "Mr. " + man.Name
+
+	fmt.Println("Inside Method:", man.Name)
 }
 
 func PointerMethod() {
-	myAddress := NewAddress{
-		City:     "Cianjur",
-		Province: "Jawa Barat",
-	}
+	tama := Man{"Tama"}
+	tama.Married()
 
-	var myAddressPointer *NewAddress = &myAddress
-
-	fillCountry(myAddressPointer, "Netherland")
-
-	fmt.Println(myAddress)
-	fmt.Println(myAddressPointer)
+	fmt.Println("Outside Method:", tama.Name)
 }

@@ -57,5 +57,6 @@ func main() {
 	// structs.TypeAssertions()
 
 	// pointer.Pointer()
+	// pointer.PointerFunction()
 	pointer.PointerMethod()
 }
