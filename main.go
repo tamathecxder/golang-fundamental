@@ -65,5 +65,6 @@ func main() {
 	// _import.Consume()
 
 	// pkg.PkgInitialization()
-	pkg.PkgOS()
+	// pkg.PkgOS()
+	pkg.PkgFlag()
 }
