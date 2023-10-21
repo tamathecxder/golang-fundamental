@@ -68,5 +68,6 @@ func main() {
 	// pkg.PkgOS()
 	// pkg.PkgFlag()
 	// pkg.PkgStrings()
-	pkg.PkgStrconv()
+	// pkg.PkgStrconv()
+	pkg.PkgMath()
 }
