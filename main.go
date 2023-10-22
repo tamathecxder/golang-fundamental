@@ -72,5 +72,6 @@ func main() {
 	// pkg.PkgMath()
 	// pkg.PkgContainerList()
 	// pkg.PkgContainerRing()
-	pkg.PkgSort()
+	// pkg.PkgSort()
+	pkg.PkgTime()
 }
